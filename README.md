@@ -1,6 +1,6 @@
 ```
-Reg no: 212222100058
-Name: varsha sharon
+Reg no: 212222240052
+Name: KULASEKARAPANDIAN K
 ```
 
 # Ex--6-AWS-Account-setup-and-S3-creation
